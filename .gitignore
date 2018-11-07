@@ -1,0 +1,44 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+Assets/AssetStoreTools*
+*ProjectVersion.txt
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.vs/
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+#Specific Paths
+rb-backend/nbproject/private/
+rb-backend/nbproject/project.xml
+rb-backend/nbproject/project.properties
+rb-backend/index.php
+rb-backend/application/config/database.php
+rb-backend/application/config/s3.php
+rb-unity/.vs/rb-unity/v15/Browse.VC.db
